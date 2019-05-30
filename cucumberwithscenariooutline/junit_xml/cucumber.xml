@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="9" time="147.229652">
+<testcase classname="input form demo automation" name="input form data automation" time="17.354642">
+<system-out><![CDATA[Given User is in selenium easy homepage.....................................passed
+When Title of the pageis selenium easy......................................passed
+Then click on demo website..................................................passed
+Then Title of the page is best demo website.................................passed
+Then click on input forms...................................................passed
+Then click on input form submit.............................................passed
+Then user enters "sujith" and "reddy" and "sujith.talamanchi@gmail.com" and "868624972" and "marathahalli" and "banglore" and "Georgia" and "500038" and "www.google.com" and "input form testing".passed
+Then close the browser......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="input form demo automation" name="input form data automation 2" time="16.328932">
+<system-out><![CDATA[Given User is in selenium easy homepage.....................................passed
+When Title of the pageis selenium easy......................................passed
+Then click on demo website..................................................passed
+Then Title of the page is best demo website.................................passed
+Then click on input forms...................................................passed
+Then click on input form submit.............................................passed
+Then user enters "sumanth" and "reddy" and "sujith.talamanchi140@gmail.com" and "868624972" and "kundanahalli" and "banglore" and "Georgia" and "500039" and "www.facebook.com" and "input form testing".passed
+Then close the browser......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="input form demo automation" name="input form data automation 3" time="14.072039">
+<system-out><![CDATA[Given User is in selenium easy homepage.....................................passed
+When Title of the pageis selenium easy......................................passed
+Then click on demo website..................................................passed
+Then Title of the page is best demo website.................................passed
+Then click on input forms...................................................passed
+Then click on input form submit.............................................passed
+Then user enters "sujith" and "reddy" and "sujith.talamanchi@gmail.com" and "868624972" and "marathahalli" and "banglore" and "Georgia" and "500038" and "www.amazon.com" and "input form testing".passed
+Then close the browser......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="input form demo automation" name="input form data automation 4" time="13.971474">
+<system-out><![CDATA[Given User is in selenium easy homepage.....................................passed
+When Title of the pageis selenium easy......................................passed
+Then click on demo website..................................................passed
+Then Title of the page is best demo website.................................passed
+Then click on input forms...................................................passed
+Then click on input form submit.............................................passed
+Then user enters "sujith" and "reddy" and "sujith.talamanchi@gmail.com" and "868624972" and "marathahalli" and "banglore" and "Georgia" and "500038" and "www.flipkart.com" and "input form testing".passed
+Then close the browser......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="input form demo automation" name="input form data automation 5" time="15.939649">
+<system-out><![CDATA[Given User is in selenium easy homepage.....................................passed
+When Title of the pageis selenium easy......................................passed
+Then click on demo website..................................................passed
+Then Title of the page is best demo website.................................passed
+Then click on input forms...................................................passed
+Then click on input form submit.............................................passed
+Then user enters "sujith" and "reddy" and "sujith.talamanchi@gmail.com" and "868624972" and "marathahalli" and "banglore" and "Georgia" and "500038" and "www.seleniumhq.com" and "input form testing".passed
+Then close the browser......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="input form demo automation" name="input form data automation 6" time="19.471233">
+<system-out><![CDATA[Given User is in selenium easy homepage.....................................passed
+When Title of the pageis selenium easy......................................passed
+Then click on demo website..................................................passed
+Then Title of the page is best demo website.................................passed
+Then click on input forms...................................................passed
+Then click on input form submit.............................................passed
+Then user enters "sujith" and "reddy" and "sujith.talamanchi@gmail.com" and "868624972" and "marathahalli" and "banglore" and "Georgia" and "500038" and "www.seleniumeasy.com" and "input form testing".passed
+Then close the browser......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="input form demo automation" name="input form data automation 7" time="16.664742">
+<system-out><![CDATA[Given User is in selenium easy homepage.....................................passed
+When Title of the pageis selenium easy......................................passed
+Then click on demo website..................................................passed
+Then Title of the page is best demo website.................................passed
+Then click on input forms...................................................passed
+Then click on input form submit.............................................passed
+Then user enters "sujith" and "reddy" and "sujith.talamanchi@gmail.com" and "868624972" and "marathahalli" and "banglore" and "Georgia" and "500038" and "www.oracle.jdbc.com" and "input form testing".passed
+Then close the browser......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="input form demo automation" name="input form data automation 8" time="19.547695">
+<system-out><![CDATA[Given User is in selenium easy homepage.....................................passed
+When Title of the pageis selenium easy......................................passed
+Then click on demo website..................................................passed
+Then Title of the page is best demo website.................................passed
+Then click on input forms...................................................passed
+Then click on input form submit.............................................passed
+Then user enters "sujith" and "reddy" and "sujith.talamanchi@gmail.com" and "868624972" and "marathahalli" and "banglore" and "Georgia" and "500038" and "www.cucumberapi.com" and "input form testing".passed
+Then close the browser......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="input form demo automation" name="input form data automation 9" time="13.879246">
+<system-out><![CDATA[Given User is in selenium easy homepage.....................................passed
+When Title of the pageis selenium easy......................................passed
+Then click on demo website..................................................passed
+Then Title of the page is best demo website.................................passed
+Then click on input forms...................................................passed
+Then click on input form submit.............................................passed
+Then user enters "sujith" and "reddy" and "sujith.talamanchi@gmail.com" and "868624972" and "marathahalli" and "banglore" and "Georgia" and "500038" and "www.junit.com" and "input form testing".passed
+Then close the browser......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
